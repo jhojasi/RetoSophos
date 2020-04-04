@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Process of rest service in the web" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-04-03T15:06:15" hostname="50HW016971" time="0.013">
+  <properties/>
+  <testcase name="Rest service" classname="Process of rest service in the web" time="0.013">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
